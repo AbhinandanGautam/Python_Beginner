@@ -1,0 +1,15 @@
+Python Learning
+
+STEP 1
+
+install python according to your OS from python.org
+go to terminal or cmd to check python is installed or not (python --version Or for MAC python3 --version) 
+
+
+STEP 2
+
+write your first hello world program ( print("hello world) )
+python use interpreter to interpret code and convert it into computer readable form
+print function print string or arguments passed in it
+
+

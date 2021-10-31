@@ -1,0 +1,6 @@
+Python is most useful language in 2021
+It is use for various purposes : 
+1. Data Science
+2. Machine Learning
+3. Artifical Intelligence
+4. Backend
